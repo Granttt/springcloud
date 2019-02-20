@@ -7,7 +7,7 @@
 
 新增 ribbon简单负载均衡 + zuul网管路由功能
 
-2019-2-9 第三次更新：
+2019-2-19 第三次更新：
 
 测试fegin用例，服务消费者（Feign）(Finchley版本)
 Feign默认集成了Ribbon，并和Eureka结合，默认实现了负载均衡的效果。
